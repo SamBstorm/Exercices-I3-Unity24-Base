@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo04-NombrePairImpair", "E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo05-Division", "Exo05-Division\Exo05-Division.csproj", "{8974A648-3067-46F5-9B52-198F202E76CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo06-BBAN", "Exo06-BBAN\Exo06-BBAN.csproj", "{837DDC23-72BB-4047-8DBA-D77046FEC960}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{8974A648-3067-46F5-9B52-198F202E76CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8974A648-3067-46F5-9B52-198F202E76CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8974A648-3067-46F5-9B52-198F202E76CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{837DDC23-72BB-4047-8DBA-D77046FEC960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837DDC23-72BB-4047-8DBA-D77046FEC960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837DDC23-72BB-4047-8DBA-D77046FEC960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837DDC23-72BB-4047-8DBA-D77046FEC960}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
