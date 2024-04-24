@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo11-TableMultiplication",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo12-MotDePasse", "Exo12-MotDePasse\Exo12-MotDePasse.csproj", "{1C54474D-D4EE-4514-B8FE-3FFF33B221C1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo13-TriangleEtoiles", "Exo13-TriangleEtoiles\Exo13-TriangleEtoiles.csproj", "{7A970A77-2275-449A-A316-34D01411160C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{1C54474D-D4EE-4514-B8FE-3FFF33B221C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C54474D-D4EE-4514-B8FE-3FFF33B221C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C54474D-D4EE-4514-B8FE-3FFF33B221C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A970A77-2275-449A-A316-34D01411160C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A970A77-2275-449A-A316-34D01411160C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A970A77-2275-449A-A316-34D01411160C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A970A77-2275-449A-A316-34D01411160C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
