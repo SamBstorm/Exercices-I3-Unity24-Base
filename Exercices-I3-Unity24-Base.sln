@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo09-Fibonacci", "Exo09-Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo10-DoubleApproximatif", "Exo10-DoubleApproximatif\Exo10-DoubleApproximatif.csproj", "{A3E87D5C-3FEC-4FFC-BAC5-B996B3D2A85E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo11-TableMultiplication", "Exo11-TableMultiplication\Exo11-TableMultiplication.csproj", "{964EEC92-479C-4FE4-83F4-E4E00B9AA96D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{A3E87D5C-3FEC-4FFC-BAC5-B996B3D2A85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3E87D5C-3FEC-4FFC-BAC5-B996B3D2A85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3E87D5C-3FEC-4FFC-BAC5-B996B3D2A85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{964EEC92-479C-4FE4-83F4-E4E00B9AA96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964EEC92-479C-4FE4-83F4-E4E00B9AA96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964EEC92-479C-4FE4-83F4-E4E00B9AA96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964EEC92-479C-4FE4-83F4-E4E00B9AA96D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
