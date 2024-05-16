@@ -35,9 +35,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo12-MotDePasse", "Exo12-M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo13-TriangleEtoiles", "Exo13-TriangleEtoiles\Exo13-TriangleEtoiles.csproj", "{7A970A77-2275-449A-A316-34D01411160C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo14-PlusPetitNombre", "Exo14-PlusPetitNombre\Exo14-PlusPetitNombre.csproj", "{C9D0D4C7-75E7-4B29-BE94-77B8AED10BE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo14-PlusPetitNombre", "Exo14-PlusPetitNombre\Exo14-PlusPetitNombre.csproj", "{C9D0D4C7-75E7-4B29-BE94-77B8AED10BE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo15-Code", "Exo15-Code\Exo15-Code.csproj", "{0C02CF75-D024-4B80-9BEB-1D01DC2097D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo15-Code", "Exo15-Code\Exo15-Code.csproj", "{0C02CF75-D024-4B80-9BEB-1D01DC2097D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoSup3.1-CalculatriceAvancee", "ExoSup3.1-CalculatriceAvancee\ExoSup3.1-CalculatriceAvancee.csproj", "{42FB76AA-1E40-474F-B435-6DC8614753C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoSup4.3-TableauPion", "ExoSup4.3-TableauPion\ExoSup4.3-TableauPion.csproj", "{936FB89E-4BEA-4A63-B363-19D4DB243CA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{0C02CF75-D024-4B80-9BEB-1D01DC2097D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C02CF75-D024-4B80-9BEB-1D01DC2097D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C02CF75-D024-4B80-9BEB-1D01DC2097D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42FB76AA-1E40-474F-B435-6DC8614753C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42FB76AA-1E40-474F-B435-6DC8614753C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42FB76AA-1E40-474F-B435-6DC8614753C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42FB76AA-1E40-474F-B435-6DC8614753C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936FB89E-4BEA-4A63-B363-19D4DB243CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936FB89E-4BEA-4A63-B363-19D4DB243CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936FB89E-4BEA-4A63-B363-19D4DB243CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936FB89E-4BEA-4A63-B363-19D4DB243CA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
