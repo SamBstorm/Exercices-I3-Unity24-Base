@@ -45,7 +45,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExoSup4.3-TableauPion", "Ex
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExoSup4.4-TableauTri", "ExoSup4.4-TableauTri\ExoSup4.4-TableauTri.csproj", "{29A00351-5CA4-4B30-AEEF-647F4D8CEDF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo16-CollectionPresence", "Exo16-CollectionPresence\Exo16-CollectionPresence.csproj", "{B2839326-C34A-42AE-B1ED-DC0B552D5733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exo16-CollectionPresence", "Exo16-CollectionPresence\Exo16-CollectionPresence.csproj", "{B2839326-C34A-42AE-B1ED-DC0B552D5733}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoSup5.1-Pendu", "ExoSup5.1-Pendu\ExoSup5.1-Pendu.csproj", "{B403A468-3D25-482C-BD4A-7AB88E4DB553}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{B2839326-C34A-42AE-B1ED-DC0B552D5733}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2839326-C34A-42AE-B1ED-DC0B552D5733}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2839326-C34A-42AE-B1ED-DC0B552D5733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B403A468-3D25-482C-BD4A-7AB88E4DB553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B403A468-3D25-482C-BD4A-7AB88E4DB553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B403A468-3D25-482C-BD4A-7AB88E4DB553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B403A468-3D25-482C-BD4A-7AB88E4DB553}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
