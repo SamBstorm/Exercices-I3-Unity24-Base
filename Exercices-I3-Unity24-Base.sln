@@ -51,6 +51,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoSup5.1-Pendu", "ExoSup5.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo17-TableauDePoint", "Exo17-TableauDePoint\Exo17-TableauDePoint.csproj", "{A310525D-B803-4259-B2A8-5C97B85AEE4E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo18-StructuresTemperature", "Exo18-StructuresTemperature\Exo18-StructuresTemperature.csproj", "{7FB00A66-8680-442B-A167-3F8B9A1B2F50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo19-VenteLivres", "Exo19-VenteLivres\Exo19-VenteLivres.csproj", "{4A9AA80A-230F-4949-8EE1-59A2AED3D587}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,14 @@ Global
 		{A310525D-B803-4259-B2A8-5C97B85AEE4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A310525D-B803-4259-B2A8-5C97B85AEE4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A310525D-B803-4259-B2A8-5C97B85AEE4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FB00A66-8680-442B-A167-3F8B9A1B2F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB00A66-8680-442B-A167-3F8B9A1B2F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB00A66-8680-442B-A167-3F8B9A1B2F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB00A66-8680-442B-A167-3F8B9A1B2F50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9AA80A-230F-4949-8EE1-59A2AED3D587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9AA80A-230F-4949-8EE1-59A2AED3D587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9AA80A-230F-4949-8EE1-59A2AED3D587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9AA80A-230F-4949-8EE1-59A2AED3D587}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
